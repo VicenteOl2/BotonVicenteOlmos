@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "704105484911",
+    "project_id": "boton-de-alerta-c6afc",
+    "storage_bucket": "boton-de-alerta-c6afc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:704105484911:android:0fa1266bdc26a367e6b39a",
+        "android_client_info": {
+          "package_name": "cl.ipvg.botonvicenteolmos"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgp9p3tOehAk1CsaeCYU5Axm48_YU5wZM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
